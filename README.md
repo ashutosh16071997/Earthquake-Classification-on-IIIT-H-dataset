@@ -1,0 +1,1 @@
+# Earthquake-Classification-on-IIIT-H-dataset
